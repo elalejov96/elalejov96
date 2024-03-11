@@ -13,14 +13,12 @@ I'm Alejandro, a Mathematician turned Data Scientist 😊
 
 **How to Reach Me**
 
-📧 Email: [fredyv96@hotmail.com]
 
 💼 LinkedIn: [https://www.linkedin.com/in/alejandro-velasco-913555138/]
 
 
 **Fun Facts About Me**
 
-📖 I love teaching and I am always looking for new things to learn.
 
 🏆 Placed second in the RIIAA (REUNION INTERNACIONAL DE INTELIGENCIA ARTIFICIAL Y SUS APLICACIONES) 2024 hackathon.
 
