@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Alejandr, a Mathematician turned Data Scientist 😊
+I'm Alejandro, a Mathematician turned Data Scientist 😊
 
 **About Me**
 
