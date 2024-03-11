@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my GitHub! I'm Alejandro. A Mathematician turned Data Scientist.
+I'm Alejandr, a Mathematician turned Data Scientist 😊
 
 **About Me**
 
