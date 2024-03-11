@@ -10,19 +10,6 @@ Welcome to my GitHub! I'm Alejandro. A Mathematician turned Data Scientist.
 
 🎓 Currently delving into the exciting world of Data Science to craft compelling and insightful narratives from data.
 
-💡 Enthusiastic about leveraging AI and ML to uncover insights and drive meaningful decisions.
-
-
-**Key Skills**
-
-🐍 Python: Advanced proficiency in Python for data analysis, machine learning, and scripting.
-
-📊 R: Extensive experience in R for statistical analysis and data visualization.
-
-📊 Power BI: Advanced skills in using Power BI for interactive data visualization and business intelligence.
-
-💾 SQL: Expertise in SQL for data manipulation and querying databases.
-
 
 **How to Reach Me**
 
