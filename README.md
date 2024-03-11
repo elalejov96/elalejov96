@@ -11,13 +11,7 @@ I'm Alejandro, a Mathematician turned Data Scientist 😊
 🎓 Currently delving into the exciting world of Data Science to craft compelling and insightful narratives from data.
 
 
-**How to Reach Me**
-
-
-💼 LinkedIn: [https://www.linkedin.com/in/alejandro-velasco-913555138/]
-
-
-**Fun Facts About Me**
+**Fun Facts**
 
 
 🏆 Placed second in the RIIAA (REUNION INTERNACIONAL DE INTELIGENCIA ARTIFICIAL Y SUS APLICACIONES) 2024 hackathon.
