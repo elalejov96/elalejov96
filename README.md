@@ -1,6 +1,3 @@
-![Alt Text](https://github.com/elalejov96/elalejov96/blob/main/Foto%202do%20Puesto%20editada.jpg?raw=true)
-
-
 ### Hi there 👋
 
 I'm Alejandro, a Mathematician turned Data Scientist 😊
