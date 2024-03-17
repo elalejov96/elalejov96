@@ -23,7 +23,7 @@ I'm Alejandro, a Mathematician turned Data Scientist 😊
 
 **Be Welcomed!**
 
-👩‍💻 Check out my latest projects and contributions below!
+👩‍💻 Check out my latest projects and contributions below! 
 
 <!--
 **elalejov96/elalejov96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
