@@ -21,7 +21,7 @@ I'm Alejandro, a Mathematician turned Data Scientist 😊
 🌐 Fluent in English, Spanish, and Portuguese.
 
 
-**Be Welcomed!**
+**Welcome!**
 
 👩‍💻 Check out my latest projects and contributions below! 
 
